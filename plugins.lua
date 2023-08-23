@@ -279,7 +279,7 @@ end
 local plugins = {
 
   -- Override plugin definition options
-
+  { "xiyaowong/transparent.nvim" , lazy = false },
   {
     "neovim/nvim-lspconfig",
     dependencies = {
