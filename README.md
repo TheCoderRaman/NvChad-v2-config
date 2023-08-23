@@ -94,3 +94,11 @@ Rename-Item "$env:LOCALAPPDATA\nvim\lua\custom" "$env:LOCALAPPDATA\nvim\lua\cust
 git clone https://github.com/pojokcodeid/NvChad-v2-config "$env:LOCALAPPDATA\nvim\lua\custom"
 ```
 
+## Commands
+
+```
+https://github.com/xiyaowong/transparent.nvim
+:TransparentEnable
+:TransparentDisable
+:TransparentToggle
+```
